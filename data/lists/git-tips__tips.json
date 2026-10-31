@@ -1,0 +1,1 @@
+{"repo": "git-tips/tips", "name": "Git Tips", "desc": "", "category": "Development Environment", "count": 1, "resources": [{"name": "git-tip", "url": "https://www.npmjs.com/package/git-tip", "desc": "A handy CLI to make optimum use of these tips. (Here in Docker container)", "section": "__Tools:__", "repo": "git-tips/tips"}]}
